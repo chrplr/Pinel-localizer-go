@@ -5,7 +5,7 @@ Implementation of the Pinel localizer in Go
 
 *Note: This has not been thouroughly tested, please report Issues on the github repo if you encounter any*
 
-This is an implementation of the "Pinel functional localizer" described in the following publication:
+This is an implementation of the *Pinel functional localizer* stimulation program described in the following publication:
 
 Pinel, P., Thirion, B., Meriaux, S., Jobert, A., Serres, J., Le Bihan, D., Poline, J.-B., & Dehaene, S. (2007). Fast reproducible identification and large-scale databasing of individual functional cognitive networks. BMC Neurosci, 8, 91. https://doi.org/10.1186/1471-2202-8-91
 
@@ -14,7 +14,7 @@ Pinel, P., Thirion, B., Meriaux, S., Jobert, A., Serres, J., Le Bihan, D., Polin
 
 ## Prerequisites 
 
-Install [expe3000-go](https://chrplr.github.io/expe3000-go), making sure that you apply the step "*Making the commands available from anywhere*".
+* Install [expe3000-go](https://chrplr.github.io/expe3000-go) (if you build it from source, make sure to apply the step "*Making the commands available from anywhere*").
 
 ## Usage
 
