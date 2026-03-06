@@ -1,0 +1,81 @@
+onset_time	duration	type	cond	stimuli
+0	400	TEXT_STREAM	calculvideo	calculate~sixteen~minus~eight
+2400	400	TEXT_STREAM	calculvideo	calculate~ten~minus~two
+8700	400	IMAGE_STREAM	CheckBoardH	checkerboard_hpb.bmp~checkerboard_hnb.bmp~checkerboard_hpb.bmp~checkerboard_hnb.bmp~checkerboard_hpb.bmp~checkerboard_hnb.bmp
+11400	400	SOUND	clicDaudio	clic3D.wav
+15000	400	SOUND	phraseAudio	ph1.wav
+18000	400	TEXT_STREAM	clicDvideo	press~three times~on the~right button
+20700	400	SOUND	phraseAudio	ph2.wav
+23700	400	SOUND	clicGaudio	clic3G.wav
+26700	400	TEXT_STREAM	clicGvideo	press~three times~on the~left button
+29700	400	SOUND	phraseAudio	ph3.wav
+33000	400	IMAGE_STREAM	CheckBoardV	checkerboard_vpb.bmp~checkerboard_vnb.bmp~checkerboard_vpb.bmp~checkerboard_vnb.bmp~checkerboard_vpb.bmp~checkerboard_vnb.bmp
+35400	400	SOUND	calculaudio	calc1.wav
+39000	400	TEXT_STREAM	phraseVideo	The storm~frightened~the animals~at the zoo
+41700	400	TEXT_STREAM	phraseVideo	The cats~are looking~for a bird~on the wall
+44700	400	SOUND	calculaudio	calc2.wav
+48000	400	SOUND	calculaudio	calc3.wav
+56400	400	TEXT_STREAM	phraseVideo	The keep~of the castle~falls~into ruin
+59700	400	IMAGE_STREAM	CheckBoardH	checkerboard_hpb.bmp~checkerboard_hnb.bmp~checkerboard_hpb.bmp~checkerboard_hnb.bmp~checkerboard_hpb.bmp~checkerboard_hnb.bmp
+62400	400	SOUND	clicGaudio	clic3G.wav
+69000	400	TEXT_STREAM	clicDvideo	press~three times~on the~right button
+71400	400	TEXT_STREAM	clicGvideo	press~three times~on the~left button
+75000	400	TEXT_STREAM	phraseVideo	We saw~the march~from~the balcony
+83400	400	SOUND	calculaudio	calc4.wav
+87000	400	SOUND	clicDaudio	clic3D.wav
+89700	400	SOUND	phraseAudio	ph4.wav
+96000	400	IMAGE_STREAM	CheckBoardV	checkerboard_vpb.bmp~checkerboard_vnb.bmp~checkerboard_vpb.bmp~checkerboard_vnb.bmp~checkerboard_vpb.bmp~checkerboard_vnb.bmp
+108000	400	SOUND	calculaudio	calc5.wav
+116700	400	TEXT_STREAM	clicGvideo	press~three times~on the~left button
+119400	400	SOUND	phraseAudio	ph5.wav
+122700	400	IMAGE_STREAM	CheckBoardV	checkerboard_vpb.bmp~checkerboard_vnb.bmp~checkerboard_vpb.bmp~checkerboard_vnb.bmp~checkerboard_vpb.bmp~checkerboard_vnb.bmp
+125400	400	TEXT_STREAM	calculvideo	calculate~eleven~minus~nine
+131400	400	TEXT_STREAM	phraseVideo	Bears~are fond of ~salmon~and honey
+135000	400	SOUND	calculaudio	calc6.wav
+137700	400	SOUND	calculaudio	calc7.wav
+140400	400	IMAGE_STREAM	CheckBoardV	checkerboard_vpb.bmp~checkerboard_vnb.bmp~checkerboard_vpb.bmp~checkerboard_vnb.bmp~checkerboard_vpb.bmp~checkerboard_vnb.bmp
+143400	400	SOUND	clicDaudio	clic3D.wav
+146700	400	SOUND	phraseAudio	ph6.wav
+149400	400	IMAGE_STREAM	CheckBoardH	checkerboard_hpb.bmp~checkerboard_hnb.bmp~checkerboard_hpb.bmp~checkerboard_hnb.bmp~checkerboard_hpb.bmp~checkerboard_hnb.bmp
+153000	400	TEXT_STREAM	calculvideo	calculate~twelve~minus~four
+156000	400	IMAGE_STREAM	CheckBoardV	checkerboard_vpb.bmp~checkerboard_vnb.bmp~checkerboard_vpb.bmp~checkerboard_vnb.bmp~checkerboard_vpb.bmp~checkerboard_vnb.bmp
+159000	400	TEXT_STREAM	phraseVideo	In town~we easily~find~a taxi
+162000	400	SOUND	clicDaudio	clic3D.wav
+164400	400	TEXT_STREAM	calculvideo	calculate~nineteen~minus~six
+167700	400	TEXT_STREAM	phraseVideo	The cold~of winter ~frooze~the lake
+170400	400	SOUND	clicGaudio	clic3G.wav
+173700	400	SOUND	calculaudio	calc8.wav
+176700	400	IMAGE_STREAM	CheckBoardH	checkerboard_hpb.bmp~checkerboard_hnb.bmp~checkerboard_hpb.bmp~checkerboard_hnb.bmp~checkerboard_hpb.bmp~checkerboard_hnb.bmp
+188400	400	IMAGE_STREAM	CheckBoardH	checkerboard_hpb.bmp~checkerboard_hnb.bmp~checkerboard_hpb.bmp~checkerboard_hnb.bmp~checkerboard_hpb.bmp~checkerboard_hnb.bmp
+191700	400	SOUND	calculaudio	calc9.wav
+195000	400	TEXT_STREAM	phraseVideo	There are~many~bridges~in Paris
+198000	400	TEXT_STREAM	calculvideo	calculate~sixteen~minus~two
+201000	400	TEXT_STREAM	calculvideo	calculate~thirteen~minus~seven
+203700	400	IMAGE_STREAM	CheckBoardV	checkerboard_vpb.bmp~checkerboard_vnb.bmp~checkerboard_vpb.bmp~checkerboard_vnb.bmp~checkerboard_vpb.bmp~checkerboard_vnb.bmp
+207000	400	IMAGE_STREAM	CheckBoardV	checkerboard_vpb.bmp~checkerboard_vnb.bmp~checkerboard_vpb.bmp~checkerboard_vnb.bmp~checkerboard_vpb.bmp~checkerboard_vnb.bmp
+210000	400	IMAGE_STREAM	CheckBoardV	checkerboard_vpb.bmp~checkerboard_vnb.bmp~checkerboard_vpb.bmp~checkerboard_vnb.bmp~checkerboard_vpb.bmp~checkerboard_vnb.bmp
+212700	400	TEXT_STREAM	clicGvideo	press~three times~on the~left button
+215700	400	TEXT_STREAM	clicGvideo	press~three times~on the~left button
+218700	400	IMAGE_STREAM	CheckBoardH	checkerboard_hpb.bmp~checkerboard_hnb.bmp~checkerboard_hpb.bmp~checkerboard_hnb.bmp~checkerboard_hpb.bmp~checkerboard_hnb.bmp
+221400	400	TEXT_STREAM	calculvideo	calculate~nineteen~minus~seven
+224700	400	IMAGE_STREAM	CheckBoardH	checkerboard_hpb.bmp~checkerboard_hnb.bmp~checkerboard_hpb.bmp~checkerboard_hnb.bmp~checkerboard_hpb.bmp~checkerboard_hnb.bmp
+227700	400	TEXT_STREAM	clicDvideo	press~three times~on the~right button
+230700	400	SOUND	clicDaudio	clic3D.wav
+234000	400	TEXT_STREAM	calculvideo	calculate~eleven~minus~three
+236700	400	SOUND	phraseAudio	ph7.wav
+246000	400	TEXT_STREAM	phraseVideo	The rain~has made~the road~dangerous
+248400	400	IMAGE_STREAM	CheckBoardH	checkerboard_hpb.bmp~checkerboard_hnb.bmp~checkerboard_hpb.bmp~checkerboard_hnb.bmp~checkerboard_hpb.bmp~checkerboard_hnb.bmp
+251700	400	SOUND	calculaudio	calc10.wav
+254700	400	SOUND	clicGaudio	clic3G.wav
+257399	400	SOUND	clicGaudio	clic3G.wav
+260399	400	TEXT_STREAM	calculvideo	calculate~seventeen~minus~six
+264000	400	IMAGE_STREAM	CheckBoardV	checkerboard_vpb.bmp~checkerboard_vnb.bmp~checkerboard_vpb.bmp~checkerboard_vnb.bmp~checkerboard_vpb.bmp~checkerboard_vnb.bmp
+266700	400	IMAGE_STREAM	CheckBoardH	checkerboard_hpb.bmp~checkerboard_hnb.bmp~checkerboard_hpb.bmp~checkerboard_hnb.bmp~checkerboard_hpb.bmp~checkerboard_hnb.bmp
+269700	400	IMAGE_STREAM	CheckBoardH	checkerboard_hpb.bmp~checkerboard_hnb.bmp~checkerboard_hpb.bmp~checkerboard_hnb.bmp~checkerboard_hpb.bmp~checkerboard_hnb.bmp
+275400	400	TEXT_STREAM	clicDvideo	press~three times~on the~right button
+278400	400	IMAGE_STREAM	CheckBoardV	checkerboard_vpb.bmp~checkerboard_vnb.bmp~checkerboard_vpb.bmp~checkerboard_vnb.bmp~checkerboard_vpb.bmp~checkerboard_vnb.bmp
+284400	400	SOUND	phraseAudio	ph8.wav
+288000	400	TEXT_STREAM	phraseVideo	Roses~are nice~but they ~prick
+291000	400	TEXT_STREAM	clicDvideo	press~three times~on the~right button
+293400	400	SOUND	phraseAudio	ph9.wav
+296700	400	SOUND	phraseAudio	ph10.wav

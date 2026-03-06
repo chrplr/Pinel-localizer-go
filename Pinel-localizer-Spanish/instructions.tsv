@@ -1,0 +1,60 @@
+onset_time	duration	type	stimuli
+0	4000	BOX	" ¡Atención!
+las instrucciones van a aparecer 
+automatica y rápidamente.
+Preste atención..."
+4000	7500	BOX	"Durante los cinco próximos minutos, 
+tendrá que efectuar, 
+alternativamente,
+una sucesión de 4 tareas diferentes:"
+11500	9000	BOX	"1-escucha o lectura de frases:
+sólo tendrá que escucharlas/leerlas 
+atentamente 
+(lectura silenciosa sin pronunciar NADA)
+"
+20500	8000	BOX	"2-escucha o lectura de restas:
+tendrá que resolverlas mentalmente
+-NO dar una respuesta oral
+-hacer los cálculos hasta el final"
+28500	8000	BOX	"3-pulsación de botones:
+pulse 3 veces en el botón adecuado 
+lo más rápido posible (!!) 
+según las instrucciones auditivas/visuales 
+(dejar la otra mano en reposo)"
+36500	7000	BOX	"4-visualización pasiva de cuadrículas 
+en blanco y negro
+
+(mantenga la mirada en el 
+centro de las cuadrículas!)"
+45500	7000	BOX	"Los estímulos visuales consistirán en 
+una serie de grupos de palabras
+(frase, instrucción o cálculo)
+presentadas rápidamente
+"
+52500	2000	TEXT	he aquí dos ejemplos
+55500	250	TEXT	un incidente
+55850	250	TEXT	se ha producido
+56200	250	TEXT	a la entrada
+56550	250	TEXT	de la fábrica
+60800	250	TEXT	calcule
+61150	250	TEXT	nueve
+61500	250	TEXT	menos
+61850	250	TEXT	tres
+65100	7000	BOX	"Durante cada prueba, evite mover los ojos. 
+Una cruz le ayudará a mantener la mirada 
+en el centro de la pantalla
++"
+74100	6000	BOX	"Los estímulos auditivos 
+(frase, instrucción o cálculo) 
+son similares 
+a los dos ejemplos siguientes"
+81100	4000	SOUND	exemple.wav
+85100	4000	SOUND	calc25.wav
+89100	6000	BOX	"¡ATENCION!
+estas pruebas van a aparecer bastante rápido. 
+Manténgase atento/a durante los cinco minutos"
+97100	4000	BOX	"Pronto vamos a empezar
+
+Pulse en el botón 
+cuando esté listo
+"

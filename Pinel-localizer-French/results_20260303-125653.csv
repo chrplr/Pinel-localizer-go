@@ -1,0 +1,41 @@
+"# expe3000 version: v0.4 (Go version)"
+"# Author: Christophe Pallier (christophe@pallier.org)"
+"# GitHub: https://github.com/chrplr/expe3000"
+"# SDL Version: 3.4.0"
+"# Platform: linux"
+"# Hostname: is154920"
+"# Username: cp983411"
+"# Video Driver: x11"
+"# Audio Driver: pulseaudio"
+"# Renderer: opengl"
+"# Display Mode: 3840x2160 @ 59.98Hz (Physical)"
+"# Logical Resolution: 1920x1080"
+"# Font: /usr/share/fonts/truetype/liberation/LiberationSans-Regular.ttf"
+"# Font Size: 50"
+"# Start Date: 2026-03-03 12:56:47.169"
+"# End Date: 2026-03-03 12:56:53.286"
+"# Completion Status: Aborted (ESC or Quit)"
+"# Command Line: ../../expe3000 -csv ../Pinel-localizer-Spanish/instructions.tsv"
+"subject_id"	"intended_ms"	"actual_ms"	"type"	"label"	"onset_time"	"duration"	"type"	"stimuli"
+""	0	1	"BOX_ONSET"	"¡Atención!
+las instrucciones van a aparecer 
+automatica y rápidamente.
+Preste atención..."	0	4000	"BOX"	" ¡Atención!
+las instrucciones van a aparecer 
+automatica y rápidamente.
+Preste atención..."
+""	692	692	"RESPONSE"	"Space"	0	4000	"BOX"	" ¡Atención!
+las instrucciones van a aparecer 
+automatica y rápidamente.
+Preste atención..."
+""	4000	4009	"BOX_ONSET"	"Durante los cinco próximos minutos, 
+tendrá que efectuar, 
+alternativamente,
+una sucesión de 4 tareas diferentes:"	4000	7500	"BOX"	"Durante los cinco próximos minutos, 
+tendrá que efectuar, 
+alternativamente,
+una sucesión de 4 tareas diferentes:"
+""	4826	4826	"RESPONSE"	"Space"	4000	7500	"BOX"	"Durante los cinco próximos minutos, 
+tendrá que efectuar, 
+alternativamente,
+una sucesión de 4 tareas diferentes:"

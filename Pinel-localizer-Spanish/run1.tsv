@@ -1,0 +1,81 @@
+onset_time	duration	type	cond	stimuli
+0	400	TEXT_STREAM	calculvideo	calcule~dieciséis~menos~ocho
+2400	400	TEXT_STREAM	calculvideo	calcule~diez~menos~dos
+8700	400	IMAGE_STREAM	CheckBoardH	checherboardHpb.bmp~checherboardHnb.bmp~checherboardHpb.bmp~checherboardHnb.bmp~checherboardHpb.bmp~checherboardHnb.bmp
+11400	400	SOUND	clicDaudio	clic3D.wav
+15000	400	SOUND	phraseAudio	ph1.wav
+18000	400	TEXT_STREAM	clicDvideo	pulse~tres veces~en el botón~derecho
+20700	400	SOUND	phraseAudio	ph2.wav
+23700	400	SOUND	clicGaudio	clic3G.wav
+26700	400	TEXT_STREAM	clicGvideo	pulse~tres veces~en el botón~izquierdo
+29700	400	SOUND	phraseAudio	ph3.wav
+33000	400	IMAGE_STREAM	CheckBoardV	checherboardVpb.bmp~checherboardVnb.bmp~checherboardVpb.bmp~checherboardVnb.bmp~checherboardVpb.bmp~checherboardVnb.bmp
+35400	400	SOUND	calculaudio	calc5.wav
+39000	400	TEXT_STREAM	phraseVideo	La tormenta~ha asustado~a los animales~del zoo
+41700	400	TEXT_STREAM	phraseVideo	Los gatos~acechan~al pájaro que~está en el tejado
+44700	400	SOUND	calculaudio	calc1.wav
+48000	400	SOUND	calculaudio	calc4.wav
+56400	400	TEXT_STREAM	phraseVideo	La torre~del castillo~está~en ruinas
+59700	400	IMAGE_STREAM	CheckBoardH	checherboardHpb.bmp~checherboardHnb.bmp~checherboardHpb.bmp~checherboardHnb.bmp~checherboardHpb.bmp~checherboardHnb.bmp
+62400	400	SOUND	clicGaudio	clic3G.wav
+69000	400	TEXT_STREAM	clicDvideo	pulse~tres veces~en el botón~derecho
+71400	400	TEXT_STREAM	clicGvideo	pulse~tres veces~en el botón~izquierdo
+75000	400	TEXT_STREAM	phraseVideo	Hemos visto~pasar~el desfile~desde el balcón
+83400	400	SOUND	calculaudio	calc6.wav
+87000	400	SOUND	clicDaudio	clic3D.wav
+89700	400	SOUND	phraseAudio	ph4.wav
+96000	400	IMAGE_STREAM	CheckBoardV	checherboardVpb.bmp~checherboardVnb.bmp~checherboardVpb.bmp~checherboardVnb.bmp~checherboardVpb.bmp~checherboardVnb.bmp
+108000	400	SOUND	calculaudio	calc10.wav
+116700	400	TEXT_STREAM	clicGvideo	pulse~tres veces~en el botón~izquierdo
+119400	400	SOUND	phraseAudio	ph5.wav
+122700	400	IMAGE_STREAM	CheckBoardV	checherboardVpb.bmp~checherboardVnb.bmp~checherboardVpb.bmp~checherboardVnb.bmp~checherboardVpb.bmp~checherboardVnb.bmp
+125400	400	TEXT_STREAM	calculvideo	calcule~once~menos~nueve
+131400	400	TEXT_STREAM	phraseVideo	A los osos~les encanta~el salmón~y la miel
+135000	400	SOUND	calculaudio	calc2.wav
+137700	400	SOUND	calculaudio	calc8.wav
+140400	400	IMAGE_STREAM	CheckBoardV	checherboardVpb.bmp~checherboardVnb.bmp~checherboardVpb.bmp~checherboardVnb.bmp~checherboardVpb.bmp~checherboardVnb.bmp
+143400	400	SOUND	clicDaudio	clic3D.wav
+146700	400	SOUND	phraseAudio	ph6.wav
+149400	400	IMAGE_STREAM	CheckBoardH	checherboardHpb.bmp~checherboardHnb.bmp~checherboardHpb.bmp~checherboardHnb.bmp~checherboardHpb.bmp~checherboardHnb.bmp
+153000	400	TEXT_STREAM	calculvideo	calcule~doce~menos~cuatro
+156000	400	IMAGE_STREAM	CheckBoardV	checherboardVpb.bmp~checherboardVnb.bmp~checherboardVpb.bmp~checherboardVnb.bmp~checherboardVpb.bmp~checherboardVnb.bmp
+159000	400	TEXT_STREAM	phraseVideo	En la ciudad~se encuentran~taxis~fácilmente
+162000	400	SOUND	clicDaudio	clic3D.wav
+164400	400	TEXT_STREAM	calculvideo	calcule~diecinueve~menos~seis
+167700	400	TEXT_STREAM	phraseVideo	El frío~del invierno~ha helado~el lago
+170400	400	SOUND	clicGaudio	clic3G.wav
+173700	400	SOUND	calculaudio	calc9.wav
+176700	400	IMAGE_STREAM	CheckBoardH	checherboardHpb.bmp~checherboardHnb.bmp~checherboardHpb.bmp~checherboardHnb.bmp~checherboardHpb.bmp~checherboardHnb.bmp
+188400	400	IMAGE_STREAM	CheckBoardH	checherboardHpb.bmp~checherboardHnb.bmp~checherboardHpb.bmp~checherboardHnb.bmp~checherboardHpb.bmp~checherboardHnb.bmp
+191700	400	SOUND	calculaudio	calc3.wav
+195000	400	TEXT_STREAM	phraseVideo	Hay~muchos~puentes~en París
+198000	400	TEXT_STREAM	calculvideo	calcule~dieciséis~menos~dos
+201000	400	TEXT_STREAM	calculvideo	calcule~trece~menos~siete
+203700	400	IMAGE_STREAM	CheckBoardV	checherboardVpb.bmp~checherboardVnb.bmp~checherboardVpb.bmp~checherboardVnb.bmp~checherboardVpb.bmp~checherboardVnb.bmp
+207000	400	IMAGE_STREAM	CheckBoardV	checherboardVpb.bmp~checherboardVnb.bmp~checherboardVpb.bmp~checherboardVnb.bmp~checherboardVpb.bmp~checherboardVnb.bmp
+210000	400	IMAGE_STREAM	CheckBoardV	checherboardVpb.bmp~checherboardVnb.bmp~checherboardVpb.bmp~checherboardVnb.bmp~checherboardVpb.bmp~checherboardVnb.bmp
+212700	400	TEXT_STREAM	clicGvideo	pulse~tres veces~en el botón~izquierdo
+215700	400	TEXT_STREAM	clicGvideo	pulse~tres veces~en el botón~izquierdo
+218700	400	IMAGE_STREAM	CheckBoardH	checherboardHpb.bmp~checherboardHnb.bmp~checherboardHpb.bmp~checherboardHnb.bmp~checherboardHpb.bmp~checherboardHnb.bmp
+221400	400	TEXT_STREAM	calculvideo	calcule~diecinueve~menos~siete
+224700	400	IMAGE_STREAM	CheckBoardH	checherboardHpb.bmp~checherboardHnb.bmp~checherboardHpb.bmp~checherboardHnb.bmp~checherboardHpb.bmp~checherboardHnb.bmp
+227700	400	TEXT_STREAM	clicDvideo	pulse~tres veces~en el botón~derecho
+230700	400	SOUND	clicDaudio	clic3D.wav
+234000	400	TEXT_STREAM	calculvideo	calcule~once~menos~tres
+236700	400	SOUND	phraseAudio	ph7.wav
+246000	400	TEXT_STREAM	phraseVideo	Cuando llueve~la carretera~se vuelve~peligrosa
+248400	400	IMAGE_STREAM	CheckBoardH	checherboardHpb.bmp~checherboardHnb.bmp~checherboardHpb.bmp~checherboardHnb.bmp~checherboardHpb.bmp~checherboardHnb.bmp
+251700	400	SOUND	calculaudio	calc7.wav
+254700	400	SOUND	clicGaudio	clic3G.wav
+257399	400	SOUND	clicGaudio	clic3G.wav
+260399	400	TEXT_STREAM	calculvideo	calcule~diecisiete~menos~seis
+264000	400	IMAGE_STREAM	CheckBoardV	checherboardVpb.bmp~checherboardVnb.bmp~checherboardVpb.bmp~checherboardVnb.bmp~checherboardVpb.bmp~checherboardVnb.bmp
+266700	400	IMAGE_STREAM	CheckBoardH	checherboardHpb.bmp~checherboardHnb.bmp~checherboardHpb.bmp~checherboardHnb.bmp~checherboardHpb.bmp~checherboardHnb.bmp
+269700	400	IMAGE_STREAM	CheckBoardH	checherboardHpb.bmp~checherboardHnb.bmp~checherboardHpb.bmp~checherboardHnb.bmp~checherboardHpb.bmp~checherboardHnb.bmp
+275400	400	TEXT_STREAM	clicDvideo	pulse~tres veces~en el botón~derecho
+278400	400	IMAGE_STREAM	CheckBoardV	checherboardVpb.bmp~checherboardVnb.bmp~checherboardVpb.bmp~checherboardVnb.bmp~checherboardVpb.bmp~checherboardVnb.bmp
+284400	400	SOUND	phraseAudio	ph8.wav
+288000	400	TEXT_STREAM	phraseVideo	Las rosas~son bonitas~pero~pinchan
+291000	400	TEXT_STREAM	clicDvideo	pulse~tres veces~en el botón~derecho
+293400	400	SOUND	phraseAudio	ph9.wav
+296700	400	SOUND	phraseAudio	ph10.wav
