@@ -7,8 +7,9 @@ Implementation of the Pinel localizer in Go
 
 This is an implementation of the *Pinel functional localizer* stimulation program described in the following publication:
 
-Pinel, P., Thirion, B., Meriaux, S., Jobert, A., Serres, J., Le Bihan, D., Poline, J.-B., & Dehaene, S. (2007). Fast reproducible identification and large-scale databasing of individual functional cognitive networks. BMC Neurosci, 8, 91. https://doi.org/10.1186/1471-2202-8-91
+> Pinel, P., Thirion, B., Meriaux, S., Jobert, A., Serres, J., Le Bihan, D., Poline, J.-B., & Dehaene, S. (2007). Fast reproducible identification and large-scale databasing of individual functional cognitive networks. BMC Neurosci, 8, 91. https://doi.org/10.1186/1471-2202-8-91
 
+This is a port to [expe3000-go](https://chrplr.github.io/expe3000-go) of a Python version available at <https://github.com/chrplr/pinel_localizer>
 
 ![](stimulation.png)
 
@@ -20,26 +21,26 @@ Pinel, P., Thirion, B., Meriaux, S., Jobert, A., Serres, J., Le Bihan, D., Polin
 
 You can either:
 
-* Launch the GUI app `expe3000-gui` and select one of the `.tsv` files inside the subfolders and the stimuli folder itselfi. This is how the interface should look like:
+* Execute one of the scripts `run*` from the command line, e.g.
+
+   ```bash
+   $ cd Pinel-localizer-French
+   $ . run_instructions.sh
+   $ . run1.sh
+   $ . run2.sh
+   ...
+   ``` 
+
+
+* or launch the GUI app `expe3000-gui` and select one of the `.tsv` files inside the subfolders and set the stimuli folder. This is how the interface should look like:
 
 ![](gui.png)
 
-  You can then press the "Start button".`
+   You can then press the "Start button".`
 
-
-* Execute one of the scripts `run*` from the command line, e.g.
-
-```bash
-$ cd Pinel-localizer-French
-$ . run_instructions.sh
-$ . run1.sh
-$ . run2.sh
-...
-``` 
 
 # License & Authorship
 
-This is a port to expe3000-go of the Python version available <https://github.com/chrplr/pinel_localizer>
 
 Author: Christophe Pallier <christophe@pallier.org> (Web site <http://www.pallier.org>)
 
