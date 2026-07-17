@@ -1,1 +1,2 @@
-expe3000 -csv run4.tsv
+#!/bin/sh
+gostim2 -csv run4.tsv

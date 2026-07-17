@@ -9,13 +9,13 @@ This is an implementation of the *Pinel functional localizer* stimulation progra
 
 > Pinel, P., Thirion, B., Meriaux, S., Jobert, A., Serres, J., Le Bihan, D., Poline, J.-B., & Dehaene, S. (2007). Fast reproducible identification and large-scale databasing of individual functional cognitive networks. BMC Neurosci, 8, 91. https://doi.org/10.1186/1471-2202-8-91
 
-This is a port to [expe3000-go](https://chrplr.github.io/expe3000-go) of a Python version available at <https://github.com/chrplr/pinel_localizer>
+This is a port to [gostim2](https://chrplr.github.io/gostim2/) of a Python version available at <https://github.com/chrplr/pinel_localizer>
 
 ![](stimulation.png)
 
 ## Prerequisites 
 
-* Install [expe3000-go](https://chrplr.github.io/expe3000-go) (if you build it from source, make sure to apply the step "*Making the commands available from anywhere*").
+* Install [gostim2](https://chrplr.github.io/gostim2/) and m
 
 ## Usage
 
@@ -32,7 +32,7 @@ You can either:
    ``` 
 
 
-* or launch the GUI app `expe3000-gui` and select one of the `.tsv` files inside the subfolders and set the stimuli folder. This is how the interface should look like:
+* or launch the GUI app `gostim2-gui` and select one of the `.tsv` files inside the subfolders and set the stimuli folder. This is how the interface should look like:
 
 ![](gui.png)
 
@@ -40,7 +40,6 @@ You can either:
 
 
 # License & Authorship
-
 
 Author: Christophe Pallier <christophe@pallier.org> (Web site <http://www.pallier.org>)
 
