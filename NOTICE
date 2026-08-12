@@ -1,0 +1,37 @@
+Pinel localizer -- Go/gostim2 implementation
+Copyright 2026 Christophe Pallier <christophe@pallier.org>
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+--------------------------------------------------------------------------
+Third-party and non-code material
+--------------------------------------------------------------------------
+
+The stimulus material distributed in this repository -- the audio files
+(*.wav), the images (*.bmp), and the accompanying stimulus spreadsheets --
+was designed by Philippe Pinel at the INSERM U562 "Cognitive Neuroimaging
+Unit" (http://www.unicog.org).
+
+That material is NOT covered by the Apache License 2.0. It is licensed
+under the Creative Commons Attribution-ShareAlike 3.0 Unported license
+(CC BY-SA 3.0):
+
+    https://creativecommons.org/licenses/by-sa/3.0/
+
+The stimulation protocol is described in:
+
+    Pinel, P., Thirion, B., Meriaux, S., Jobert, A., Serres, J.,
+    Le Bihan, D., Poline, J.-B., & Dehaene, S. (2007). Fast reproducible
+    identification and large-scale databasing of individual functional
+    cognitive networks. BMC Neuroscience, 8, 91.
+    https://doi.org/10.1186/1471-2202-8-91

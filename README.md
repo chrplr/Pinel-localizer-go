@@ -45,7 +45,15 @@ Author: Christophe Pallier <christophe@pallier.org> (Web site <http://www.pallie
 
 The stimuli were designed by Philippe Pinel at the [INSERM U562 "Cognitive Neuroimaging Unit"](http://www.unicog.org)
 
-License: GNU Public License v3
+Two different licenses apply:
+
+* **Code** (the `run*.sh` scripts, the `.tsv` protocol files and anything else
+  driving the stimulation): [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
+  See [LICENSE](LICENSE) and [NOTICE](NOTICE).
+
+* **Stimulus material** (the `.wav` audio files, the `.bmp` images and the
+  accompanying stimulus spreadsheets), designed by Philippe Pinel at INSERM
+  U562: [Creative Commons Attribution-ShareAlike 3.0 (CC BY-SA 3.0)](https://creativecommons.org/licenses/by-sa/3.0/).
 
 
 [![](logo_unicog.png)](http://www.unicog.org)
