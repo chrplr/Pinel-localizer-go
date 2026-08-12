@@ -1,0 +1,55 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Pallier"
+    given-names: "Christophe"
+    orcid: "https://orcid.org/0000-0002-3324-666X"
+title: "Pinel localizer: a gostim2 implementation of the Pinel functional localizer"
+abstract: >-
+  An implementation, for the gostim2 stimulus delivery system, of the
+  Pinel functional localizer -- a short fMRI protocol probing language,
+  arithmetic, motor and visual networks in a single run. Stimulus sets
+  are provided in French, English and Spanish. The program code is
+  licensed under Apache-2.0; the stimulus material, designed by Philippe
+  Pinel at INSERM U562, is licensed under CC BY-SA 3.0.
+version: latest
+date-released: 2026-08-12
+url: "https://github.com/chrplr/Pinel-localizer-go"
+repository-code: "https://github.com/chrplr/Pinel-localizer-go"
+license:
+  - Apache-2.0
+  - CC-BY-SA-3.0
+keywords:
+  - functional localizer
+  - fMRI
+  - language
+  - arithmetic
+  - neuroimaging
+  - stimulus presentation
+references:
+  - type: article
+    title: >-
+      Fast reproducible identification and large-scale databasing of
+      individual functional cognitive networks
+    authors:
+      - family-names: "Pinel"
+        given-names: "Philippe"
+      - family-names: "Thirion"
+        given-names: "Bertrand"
+      - family-names: "Meriaux"
+        given-names: "Sebastien"
+      - family-names: "Jobert"
+        given-names: "Antoinette"
+      - family-names: "Serres"
+        given-names: "Julien"
+      - family-names: "Le Bihan"
+        given-names: "Denis"
+      - family-names: "Poline"
+        given-names: "Jean-Baptiste"
+      - family-names: "Dehaene"
+        given-names: "Stanislas"
+    journal: "BMC Neuroscience"
+    volume: 8
+    start: 91
+    year: 2007
+    doi: "10.1186/1471-2202-8-91"
